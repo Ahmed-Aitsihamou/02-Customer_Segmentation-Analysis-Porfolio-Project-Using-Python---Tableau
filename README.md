@@ -70,15 +70,15 @@ These segments will guide targeted outreach, upselling, and reactivation strateg
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-- Python (pandas, datetime)
-- PowerPoint (python-pptx for slide automation)
-- CSV for export-ready deliverables
+- Python (pandas, NumPy, seaborn, matplotlib)
+- Power BI / Tableau (for dashboards)
+- Google Slides for presentation
 
 ---
 
-## 📁 Folder Structure
+## 📁 Files
 
 | File | Description |
 |------|-------------|
