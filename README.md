@@ -25,9 +25,9 @@ These segments will guide targeted outreach, upselling, and reactivation strateg
 <h4> Phase 2: Labeling & Insights
 <h4> •	Create meaningful customer segments (e.g., “High-Value Champions”, “At-Risk”, “Potential Loyalists”)
 <h4> •	Analyze segment profiles by:
-<h4> o	Product preference
-<h4> o	Channel strategy (if available)
-<h4> o	Campaign eligibility
+<h4>       o	Product preference
+<h4>       o	Channel strategy (if available)
+<h4>       o	Campaign eligibility
 
 ---
 
