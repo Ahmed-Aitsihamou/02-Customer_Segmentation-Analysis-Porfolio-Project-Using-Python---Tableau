@@ -61,11 +61,12 @@ These segments will guide targeted outreach, upselling, and reactivation strateg
 
 ---
 
-## 📊 Deliverables
+## 📈 Deliverables
+•	Cleaned and transformed customer-level dataset with RFM scores and segments
+•	Key visualizations: segment distribution, spend patterns, segment behavior
+•	Dashboard in Power BI/Tableau for stakeholder insights
+•	Strategic recommendations for targeted campaigns per segment
 
-- `ojar_rfm_customers.csv`: Cleaned dataset with full RFM scores and customer segments.
-- `ojar_segment_summary.csv`: Summary of segments with customer count and average spend.
-- 📈 PowerPoint Presentation: Professional insights and strategy summary for stakeholders.
 
 ---
 
