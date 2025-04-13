@@ -18,11 +18,11 @@ These segments will guide targeted outreach, upselling, and reactivation strateg
 ---
 
 ## 🧠 Analytical Approach
-Phase 1: RFM Segmentation
+<h4> Phase 1: RFM Segmentation
 •	Recency: How recently did the customer purchase?
 •	Frequency: How often do they purchase?
 •	Monetary: How much do they spend (based on product catalog lookup)?
-Phase 2: Labeling & Insights
+<h4> Phase 2: Labeling & Insights
 •	Create meaningful customer segments (e.g., “High-Value Champions”, “At-Risk”, “Potential Loyalists”)
 •	Analyze segment profiles by:
 o	Product preference
