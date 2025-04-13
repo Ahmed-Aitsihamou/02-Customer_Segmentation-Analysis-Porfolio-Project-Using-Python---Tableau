@@ -55,14 +55,22 @@ This project analyzes customer purchase behavior for **OJAR**, a premium fragran
 
 ---
 
+## 📁 Folder Structure
+
+| File | Description |
+|------|-------------|
+| `01 - Customer Segmentation for OJAR (Perfume Brand) Requirements` | Requirement Doc |
+| `02 - OJAR Datasets` | dataset |
+| `03 - Python` | Complete analysis in Python |
+| `04 - Presentation` | Presentation |
+
+
+---
+
 ## 🎯 Business Outcomes
 
 - Identified high-value segments (Champions, Loyal Customers) for retention focus.
 - Created actionable plans for reactivating at-risk and lost segments.
 - Built a foundation for personalized campaign deployment based on customer behavior.
-
----
-
-## 📁 Folder Structure
 
 
