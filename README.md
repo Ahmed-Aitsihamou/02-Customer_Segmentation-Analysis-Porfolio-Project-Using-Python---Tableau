@@ -6,6 +6,17 @@ This project analyzes customer purchase behavior for **OJAR**, a premium fragran
 
 ---
 
+🎯 Project Objective
+To segment OJAR's customer base using behavioral data (purchase history) to enable personalized marketing campaigns. The goal is to identify key customer groups such as:
+•	High spenders (VIPs)
+•	Recent but infrequent buyers
+•	Loyal repeat customers
+•	At-risk or inactive customers
+•	One-time buyers
+These segments will guide targeted outreach, upselling, and reactivation strategies.
+
+---
+
 ## 🗂️ Data Sources
 
 - `ojar_transactions_table.csv`: Contains historical transaction records (customer ID, order date, product, category).
