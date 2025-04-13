@@ -1,1 +1,1 @@
-# 02-Customer_Segmentation-Analysis-Porfolio-Project-Using-Python---Tableau
+# 02-Customer_Segmentation-Analysis-Porfolio-Project-Using-Python-and-Tableau
