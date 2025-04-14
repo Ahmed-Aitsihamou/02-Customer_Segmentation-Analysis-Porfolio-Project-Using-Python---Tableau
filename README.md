@@ -42,10 +42,10 @@ This allows for strategic targeting, upselling, and reactivation campaigns.
 ---
 
 ## 📈 Deliverables
-**-	Cleaned and transformed customer-level dataset with RFM scores and segments**
-**-	Key visualizations: segment distribution, spend patterns, segment behavior**
-**-	Dashboard in Power BI/Tableau for stakeholder insights**
-**-	Strategic recommendations for targeted campaigns per segment**
+-	Cleaned and transformed customer-level dataset with RFM scores and segments
+-	Key visualizations: segment distribution, spend patterns, segment behavior
+-	Dashboard in Power BI/Tableau for stakeholder insights**
+-	Strategic recommendations for targeted campaigns per segment**
 
 
 ---
