@@ -91,5 +91,4 @@ This allows for strategic targeting, upselling, and reactivation campaigns.
 
 **Author:** Ahmed Ait si hamou  
 **Role:** Data Analyst  
-**Linkedin:** [Link](https://www.linkedin.com/in/ahmedaitsihamou/) 
-**Project:** Portfolio / Customer Segmentation – RFM Analysis 
+**Linkedin:** [Link](https://www.linkedin.com/in/ahmedaitsihamou/)
