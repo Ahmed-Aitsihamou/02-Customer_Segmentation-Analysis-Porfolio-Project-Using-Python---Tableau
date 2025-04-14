@@ -60,12 +60,14 @@ This allows for strategic targeting, upselling, and reactivation campaigns.
 
 ## 📁 Files
 
-| File | Description |
-|------|-------------|
-| `01 - Customer Segmentation for OJAR (Perfume Brand) Requirements` | Requirement Doc |
-| `02 - OJAR Datasets` | dataset |
-| `03 - Python` | Complete analysis in Python |
-| `04 - Presentation` | Presentation |
+| File | Description | Link |
+|------|-------------|------|
+| `01 - Customer Segmentation for OJAR (Perfume Brand) Requirements` | Requirement Doc | [Link]() |
+| `02 - OJAR Datasets` | Dataset | [Link]() |
+| `03 - Python` | Complete analysis in Python | [Link]() |
+| `04 - rfm_table`| RFM - Dataset | [Link]() |
+| `05 - Presentation` | Presentation | [Link]() |
+|`06 - Dashboard ` | Dashboard | [Link]() |
 
 
 ---
