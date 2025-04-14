@@ -1,30 +1,36 @@
-# 🧼 Customer Segmentation Analysis – OJAR Perfume Brand
+# 🧴 OJAR Customer Segmentation – RFM Analysis
 
-## 📌 Project Overview
-
-This project analyzes customer purchase behavior for **OJAR**, a premium fragrance brand, to improve marketing ROI through **RFM segmentation** (Recency, Frequency, Monetary). The result is a strategic breakdown of customer segments that informs targeting, loyalty programs, and reactivation campaigns.
+This project performs customer segmentation for **OJAR**, a premium fragrance brand, using **RFM (Recency, Frequency, Monetary)** analysis to enable targeted marketing campaigns and improve customer retention and engagement.
 
 ---
 
-## 🎯 Project Objective
-To segment OJAR's customer base using behavioral data (purchase history) to enable personalized marketing campaigns. The goal is to identify key customer groups such as:
-•	High spenders (VIPs)
-•	Recent but infrequent buyers
-•	Loyal repeat customers
-•	At-risk or inactive customers
-•	One-time buyers
-These segments will guide targeted outreach, upselling, and reactivation strategies.
+## 📊 Objective
 
+Segment OJAR's customer base into meaningful groups such as:
+- High-Value Champions
+- Loyal Customers
+- At-Risk Customers
+- One-Time Buyers
+- Potential Loyalists
+
+This allows for strategic targeting, upselling, and reactivation campaigns.
 ---
 
-## 🧠 Analytical Approach
-<h4> Phase 1: RFM Segmentation
-<h4> •	Recency: How recently did the customer purchase?
-<h4> •	Frequency: How often do they purchase?
-<h4> •	Monetary: How much do they spend (based on product catalog lookup)?
-<h4> Phase 2: Labeling & Insights
-<h4> •	Create meaningful customer segments (e.g., “High-Value Champions”, “At-Risk”, “Potential Loyalists”)
-<h4> •	Analyze segment profiles by product preference 
+## 🧠 Methodology
+
+1. **Data Sources:**
+   - Customer Transactions (CSV)
+   - Product Catalog with Pricing (CSV)
+
+2. **Steps:**
+   - Merge transaction and catalog data
+   - Calculate RFM metrics:
+     - **Recency**: Days since last purchase
+     - **Frequency**: Number of purchases
+     - **Monetary**: Total spend
+   - Score RFM values (1 to 5)
+   - Create composite `RFM_Score`
+   - Segment customers based on scoring rules
 
 ---
 
@@ -32,32 +38,6 @@ These segments will guide targeted outreach, upselling, and reactivation strateg
 
 - `ojar_transactions_table.csv`: Contains historical transaction records (customer ID, order date, product, category).
 - `ojar_product_catalog.csv`: Provides product-level pricing and category info.
-
----
-
-## 🧠 Methodology
-
-### 1. Data Preparation
-- Merged transaction and product data.
-- Cleaned records with missing prices.
-- Converted date columns for time-based analysis.
-
-### 2. RFM Metric Calculation
-- **Recency**: Days since last purchase.
-- **Frequency**: Number of unique orders.
-- **Monetary**: Total customer spend.
-
-### 3. Scoring and Segmentation
-- Assigned scores (1–5) for each RFM metric using quantiles.
-- Combined scores into customer segments:
-  - Champions
-  - Loyal Customers
-  - Potential Loyalists
-  - Recent Customers
-  - At Risk
-  - Lost
-  - Need Attention
-  - Others
 
 ---
 
@@ -90,10 +70,24 @@ These segments will guide targeted outreach, upselling, and reactivation strateg
 
 ---
 
-## 🎯 Business Outcomes
+## 📌 Key Insights
 
-- Identified high-value segments (Champions, Loyal Customers) for retention focus.
-- Created actionable plans for reactivating at-risk and lost segments.
-- Built a foundation for personalized campaign deployment based on customer behavior.
+- **High-Value Champions** represent ~20% of customers but drive the most revenue.
+- **At-Risk** segment is the largest — strong potential for reactivation campaigns.
+- Product preferences vary per segment, enabling personalized promotions.
 
+---
 
+## 📢 Strategic Recommendations
+
+- Use loyalty programs and exclusives for High-Value customers.
+- Upsell to Loyal customers using personalized offers.
+- Reactivate At-Risk users with discounts or email nudges.
+- Encourage One-Time buyers to repeat via bundles.
+
+---
+
+**Author:** Ahmed Ait si hamou  
+**Role:** Data Analyst  
+**Linkedin:** [Link](https://www.linkedin.com/in/ahmedaitsihamou/) 
+**Project:** Portfolio / Customer Segmentation – RFM Analysis 
