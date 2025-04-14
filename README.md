@@ -66,7 +66,7 @@ This allows for strategic targeting, upselling, and reactivation campaigns.
 | `02 - OJAR Datasets.rar` | Dataset | [Link](https://github.com/Ahmed-Aitsihamou/02-Customer_Segmentation_Analysis_Porfolio_Project_Using_Python_and_Tableau/blob/main/02%20-%20OJAR%20Datasets.rar) |
 | `03 - Python Customer Segmentation Analysis Insights` | Complete analysis in Python | [Link](https://github.com/Ahmed-Aitsihamou/02-Customer_Segmentation_Analysis_Porfolio_Project_Using_Python_and_Tableau/blob/main/03%20-%20Python%20Customer%20Segmentation%20Analysis%20Insights.ipynb) |
 | `04 - rfm_table`| RFM - Dataset | [Link](https://github.com/Ahmed-Aitsihamou/02-Customer_Segmentation_Analysis_Porfolio_Project_Using_Python_and_Tableau/blob/main/04%20-%20rfm_table.csv) |
-| `05 - Presentation` | Presentation | [Link]() |
+| `05 - Customer Segmentation for OJAR Presentation` | Presentation | [Link](https://docs.google.com/presentation/d/1VbLMfoIFA_PKTPQM3jepBecamJEZDyJvgVvAFKUdzwI/edit?usp=sharing) |
 |`06 - Dashboard ` | Dashboard | [Link]() |
 
 
